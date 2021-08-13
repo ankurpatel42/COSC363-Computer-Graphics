@@ -1,0 +1,5 @@
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/CMakeFiles/edit_cache.dir
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/CMakeFiles/GLM.out.dir
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/CMakeFiles/Model3Dvn.out.dir
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/CMakeFiles/FlightPath.out.dir

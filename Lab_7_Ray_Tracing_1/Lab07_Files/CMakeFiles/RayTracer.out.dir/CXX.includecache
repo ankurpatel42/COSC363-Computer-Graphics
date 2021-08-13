@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/Ray.h
+glm/glm.hpp
+-
+vector
+-
+SceneObject.h
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/SceneObject.h
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/RayTracer.cpp
+iostream
+-
+cmath
+-
+vector
+-
+glm/glm.hpp
+-
+Sphere.h
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/Sphere.h
+SceneObject.h
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/SceneObject.h
+Ray.h
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/Ray.h
+GL/freeglut.h
+-
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/SceneObject.h
+glm/glm.hpp
+-
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/Sphere.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/akp41/Documents/COSC363/Lab_7_Ray_Tracing_1/Lab07_Files/SceneObject.h
+

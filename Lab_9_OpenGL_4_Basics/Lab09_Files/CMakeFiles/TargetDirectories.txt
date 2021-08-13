@@ -1,0 +1,3 @@
+/home/cosc/student/akp41/Documents/COSC363/Lab_9_OpenGL_4_Basics/Lab09_Files/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/akp41/Documents/COSC363/Lab_9_OpenGL_4_Basics/Lab09_Files/CMakeFiles/edit_cache.dir
+/home/cosc/student/akp41/Documents/COSC363/Lab_9_OpenGL_4_Basics/Lab09_Files/CMakeFiles/Seashell.out.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Model3Dvn.out.dir/II_Model3Dvn/Model3Dvn.cpp.o  -o Model3Dvn.out  -lGL -lGLU -lglut -lXi 

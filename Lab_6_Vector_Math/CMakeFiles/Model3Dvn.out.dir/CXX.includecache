@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/II_Model3Dvn/Model3Dvn.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+GL/freeglut.h
+-
+climits
+-
+

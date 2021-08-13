@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_9_OpenGL_4_Basics/Lab09_Files/Seashell.cpp
+iostream
+-
+GL/glew.h
+-
+GL/freeglut.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+Shader.h
+/home/cosc/student/akp41/Documents/COSC363/Lab_9_OpenGL_4_Basics/Lab09_Files/Shader.h
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_9_OpenGL_4_Basics/Lab09_Files/Shader.h
+iostream
+-
+fstream
+-
+sstream
+-
+

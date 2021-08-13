@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/akp41/Documents/COSC363/Lab_6_Vector_Math/III_GLM/GLM_Examples.cpp
+iostream
+-
+climits
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/matrix_access.hpp
+-
+glm/gtx/string_cast.hpp
+-
+

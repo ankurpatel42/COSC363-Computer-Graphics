@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Seashell.out.dir/Seashell.cpp.o  -o Seashell.out  -lGL -lGLU -lglut -lXi -lGLEW 
